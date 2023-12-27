@@ -1,4 +1,4 @@
-"menu": {
+{"menu": {
   {
     "_id": {
       "$oid": "5eee651f739f8c674fd736ee"
@@ -80,4 +80,4 @@
     "price": "400",
     "description": "Sandwiches have eggs, bacon, cheese, avocado, spinach, and tomato"
   }
-  }
+  }}
